@@ -13,13 +13,13 @@ const Projects = () => {
       </SectionHeading>
       <StyledParagraph dark="true" textAlign="center">
         Selected projects I've worked on recently.{" "}
-        <StyledLink
+        {/* <StyledLink
           href="https://github.com/monciego"
           target="_blank"
           rel="noopener noreferrer"
         >
           Want to see more?
-        </StyledLink>
+        </StyledLink> */}
       </StyledParagraph>
       <ProjectsContainer>
         {projectData.map((project) => {

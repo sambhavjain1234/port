@@ -14,8 +14,8 @@ export const projectsData = [
   },
   {
     id: 2,
-    projectName: "Random Quote Generator",
-    liveLink: "https://js-project-quote-generator.netlify.app/",
+    projectName: "Quotes",
+    liveLink: "https://sambhavjain1234.github.io/Quotes/",
     hasLink: true,
     img: random,
   },
