@@ -35,12 +35,13 @@ const About = () => {
           <StyledParagraph>
             I love to design and create responsive websites from
             scratch. The technologies, tools and languages I am using to build
-            my projects are HTML, CSS, JavaScript, REACT JS,
-            Bootstrap, Git and GitHub, Figma, Adobe XD and VS Code.
+            my projects are HTML, CSS, Javascript, REACT Js, Node, Typescript, 
+            Clerk Authentication, Drizzle ORM, PostgreSQL, Gemini API, NEXT UI, ShadcnUI    
+            Bootstrap, Git and GitHub and VS Code.
           </StyledParagraph>
           <StyledParagraph>
             I have eagerness to learn something new every day and I love to
-            share my knowledge to my fellow students and developers. And I am
+            share my knowledge to my fellow classmates and developers. And I am
             looking forward to talk with you!
           </StyledParagraph>
           <Resume>
