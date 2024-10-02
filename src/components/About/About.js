@@ -35,7 +35,7 @@ const About = () => {
           <StyledParagraph>
             I love to design and create responsive websites from
             scratch. The technologies, tools and languages I am using to build
-            my projects are HTML, CSS, Javascript, REACT Js, Node, Typescript, 
+            my projects are HTML, CSS, Javascript, React Js, Node, Typescript, TailwindCSS
             Clerk Authentication, Drizzle ORM, PostgreSQL, Gemini API, NEXT UI, ShadcnUI    
             Bootstrap, Git and GitHub and VS Code.
           </StyledParagraph>
