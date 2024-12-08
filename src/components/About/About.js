@@ -29,7 +29,7 @@ const About = () => {
         <AboutDetailsContainer>
           <StyledParagraph>
             My name is Sambhav jain, currently pursuing Bachelor of
-            Technology in Computer Science and Engineering from Jabalpur Engineering College. I
+            Technology in Computer Science and Engineering from Jabalpur Engineering College.
             I am a passionate front-end developer based in India.
           </StyledParagraph>
           <StyledParagraph>
